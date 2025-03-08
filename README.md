@@ -83,3 +83,7 @@ Ensure you have the following installed on your system:
 Node.js (LTS version recommended)
 
 NPM or Yarn (For package management)
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e892df29-3cfe-4497-8af3-145adceb5c37)
