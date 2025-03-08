@@ -1,4 +1,4 @@
-*REAL-TIME CHAT APPLICATION*
+*TASK-1  REAL-TIME CHAT APPLICATION*
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
@@ -87,3 +87,5 @@ NPM or Yarn (For package management)
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/e892df29-3cfe-4497-8af3-145adceb5c37)
+
+![Image](https://github.com/user-attachments/assets/b18faa5b-9ee2-4449-87d3-08d95bfc7ba5)
